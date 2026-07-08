@@ -4,11 +4,10 @@ CampusHub is a full-stack platform for college students.
 
 ## Planned Features
 
-- Event Management
 - Notes Sharing
-- Marketplace
-- Attendance Calculator
-- CGPA Calculator
+- Campus-Annoucements
+- Current council
+- Clubs and student project(main idea and core- members)
 - Internship Board
 - User Profiles
 
